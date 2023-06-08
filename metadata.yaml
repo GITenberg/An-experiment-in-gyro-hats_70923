@@ -1,0 +1,35 @@
+_repo: An-experiment-in-gyro-hats_70923
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Butler, Ellis Parker
+    birthdate: 1869
+    deathdate: 1937
+    gutenberg_agent_id: '585'
+    url: http://www.gutenberg.org/2009/agents/585
+    wikipedia: https://en.wikipedia.org/wiki/Ellis_Parker_Butler
+  - agent_name: Levering, Albert
+    birthdate: 1869
+    deathdate: 1929
+    gutenberg_agent_id: '25625'
+    url: http://www.gutenberg.org/2009/agents/25625
+description: ''
+gutenberg_issued: '2023-06-06'
+identifiers:
+  gutenberg: '70923'
+language: en
+pgterms:marc904: https://archive.org/details/experimentingyro00butl/page/n3/mode/2up
+pgterms:marc905: 20220223191014butler
+pgterms:marc906: '1910'
+pgterms:marc907: US
+production_note: Charlene Taylor and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aUnited States :$bThe Q and C Co., $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: An experiment in gyro-hats
+url: http://www.gutenberg.org/ebooks/70923
