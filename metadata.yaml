@@ -1,5 +1,8 @@
 _repo: An-experiment-in-gyro-hats_70923
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70923-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Butler, Ellis Parker
@@ -14,6 +17,8 @@ creator:
     gutenberg_agent_id: '25625'
     url: http://www.gutenberg.org/2009/agents/25625
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70923#An-experiment-in-gyro-hats
 gutenberg_issued: '2023-06-06'
 identifiers:
   gutenberg: '70923'
